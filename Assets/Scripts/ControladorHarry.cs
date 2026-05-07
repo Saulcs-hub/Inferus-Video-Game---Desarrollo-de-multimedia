@@ -130,4 +130,9 @@ public class ControladorHarry : MonoBehaviour
         yield return new WaitForSeconds(tiempoDeEspera);
         varita.SetActive(estado);
     }
+
+    private void OnCollisionStay(Collision collision)
+    {
+        Debug.Log(collision.gameObject.name);
+    }
 }
