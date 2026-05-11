@@ -22,8 +22,10 @@ Este es un proyecto de acción y aventura desarrollado en Unity, donde la magia 
 ## 👥 El Equipo de Desarrollo
 Este juego está siendo creado con mucha pasión por un equipo de 3 desarrolladores:
 
-1. **Carlos Saul Villabona Pinilla** - Programador principal
+1. **Carlos Saul Villabona Pinilla** - Programador principal - Modelador Harry Potter
    * GitHub: Saulcs-hub *
+2. **Julian Eduardo Godoy** - Modelador escenario
+3. **Edward Alejandro Jimenez Rios** - Modelador enemigos - Programador
 
 
 ## 🕹️ Controles Básicos
